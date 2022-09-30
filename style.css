@@ -1,2 +1,11 @@
-* 
-mar
+* {
+marging: 0;
+padding: 0;
+
+
+nav{
+    width: 100vw;
+    height: 50px;
+    display; flex;
+    justify-content: space-between;
+    aling-items
